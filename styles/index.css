@@ -1,2 +1,7 @@
-@import url(global.css);
+@import url('./global.css');
+
+/* Remove marcadores da lista de informações do perfil */
+#info {
+    list-style: none;
+}
 
