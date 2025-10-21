@@ -1,0 +1,22 @@
+@import url('./global.css');
+
+footer {
+    display: flex;
+    padding: 24px 32px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--background-color);
+    font: var(--text-sm);
+    color: var(--text-color-secondary);
+}
+
+footer .links {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+footer a:hover {
+    color: var(--brand--color);
+    text-decoration: underline;
+}
