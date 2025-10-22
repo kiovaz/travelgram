@@ -1,4 +1,8 @@
 @import url('./global.css');
+@import url('./nav.css');
+@import url('./header.css');
+@import url('./footer.css');
+@import url('./sim.css');
 
 /* Remove marcadores da lista de informações do perfil */
 #info {

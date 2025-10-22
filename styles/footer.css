@@ -1,5 +1,3 @@
-@import url('./global.css');
-
 footer {
     display: flex;
     padding: 24px 32px;
@@ -17,6 +15,6 @@ footer .links {
 }
 
 footer a:hover {
-    color: var(--brand--color);
+    color: var(--brand-color);
     text-decoration: underline;
 }
